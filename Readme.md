@@ -19,4 +19,4 @@ This project deploys a "Hello World" message on the web using Docker with its Ja
 ## RAILWAY
 - Paste this URL into your preferred browser
 
-            https://holamundoenjava-production.up.railway.app/
+            holamundoenjava-production.up.railway.app
